@@ -1,6 +1,6 @@
-package ua.hillel.enums.model;
+package ua.hillel.enums;
 
-import static ua.hillel.enums.model.Position.*;
+import static ua.hillel.enums.Position.*;
 
 public class User {
 

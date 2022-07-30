@@ -1,4 +1,4 @@
-package ua.hillel.enums.model;
+package ua.hillel.enums;
 
 public enum Position {
     DIRECTOR,
