@@ -1,11 +1,7 @@
 package ua.hillel.enums;
 
-import ua.hillel.enums.model.Store;
-import ua.hillel.enums.model.User;
-
 import java.util.Scanner;
-
-import static ua.hillel.enums.model.Position.*;
+import static ua.hillel.enums.Position.*;
 
 public class Main {
 
